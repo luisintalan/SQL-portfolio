@@ -1,4 +1,4 @@
-# SQL Portfolio
+# 🛢️ SQL Portfolio
 The following are projects that showcase my expertise in SQL.
 
 ## Video Game Sales Analysis with SQL 🎮📈 [(Script)](https://github.com/luisintalan/SQL-portfolio/blob/main/VG%20Sales.sql)
