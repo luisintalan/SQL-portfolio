@@ -1,12 +1,15 @@
 # SQL Portfolio.
 The following are projects that showcase my expertise in SQL.
 
-## Video Game Sales Analysis with SQL 🎮📈  
+## Video Game Sales Analysis with SQL 🎮📈 [(Script)](https://github.com/luisintalan/SQL-portfolio/blob/main/VG%20Sales.sql)
+
 This SQL script analyzes the "Video Game Sales" dataset sourced from [Kaggle.](www.kaggle.com/datasets/gregorut/videogamesales)
 
 Includes:
-1. Data cleaning and transformation
-* Removal of irrelevant entries with insufficient data in Sales Columns
-* Conversion of Sales columns to the appropriate data type.
 
-2. SQL Queries for analysis
+**1. Data Cleaning and Transformation**
+* Using **DELETE** clause to remove of irrelevant entries with insufficient data in Sales Columns
+* Using **ALTER** clause to convert Sales columns to the appropriate data type.
+
+**2. SQL Queries for Analysis**
+* Using **SELECT** statements to uncover valuable insights within the "Video Game Sales" dataset:
