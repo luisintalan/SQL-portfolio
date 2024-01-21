@@ -72,21 +72,3 @@ FROM vgsales;
 SELECT TOP 10 Name, (EU_Sales + JP_Sales) AS EU_JP_Sales
 FROM vgsales
 ORDER BY EU_JP_Sales DESC;
-
-----Harder SQL Queries
-
---What is the year-over-year growth rate in global sales for each game?
-
---Which gaming platform has the highest average global sales per game?
-
---Among the top publishers, which ones have a diverse portfolio of genres with high sales?
-
---Can you identify any trends in sales growth by analyzing the sales performance of games released in the last five years?
-
---Is there a correlation between the average critic scores of games and their global sales?
-
---Identify games that are outliers in terms of sales performance in each region (North America, Europe, Japan) compared to their respective genres.
-
---Can you analyze the dynamic market share of each gaming platform over the years, considering the changing landscape?
-
---Are there any indications of potential blockbuster franchises by analyzing the sales performance of games with sequels?
