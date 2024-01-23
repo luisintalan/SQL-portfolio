@@ -43,4 +43,4 @@ Includes:
   * Used a **CTE (Common Table Expression)** to aggregate sales data for the Wii U platform, grouping by year.
   * Applied **window functions** to calculate the total sales per year for contextualizing market share percentages.
 
-*Note: Only main parts are highlighted; view [script](https://github.com/luisintalan/SQL-portfolio/blob/main/VG%20Sales.sql) script for detailed SQL queries and analysis.*
+*Note: Only main parts are highlighted; view [script](https://github.com/luisintalan/SQL-portfolio/blob/main/VG%20Sales.sql) for detailed SQL queries and analysis.*
